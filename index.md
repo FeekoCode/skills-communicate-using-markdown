@@ -10,6 +10,6 @@
 
 ###### <h6> I love Mandy very much. 
 
-![Image of Hunter in Risk of Rain 2](https://images.app.goo.gl/qhAb9oy8LaZ8Yy2q8)
+![Risk of Rain 2 Vote for the Next Survivor Image](https://mp1st.com/wp-content/uploads/2020/04/Next-Risk-of-Rain-2-Survivor.jpg)
 
 Here I am adding an image to test if it works. 
