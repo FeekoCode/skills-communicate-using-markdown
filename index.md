@@ -12,4 +12,8 @@
 
 ![Risk of Rain 2 Vote for the Next Survivor Image](https://mp1st.com/wp-content/uploads/2020/04/Next-Risk-of-Rain-2-Survivor.jpg)
 
-Here I am adding an image to test if it works. 
+```python
+greeting = print("Hello, world")
+```
+
+Added a code example.
