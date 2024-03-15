@@ -10,5 +10,6 @@
 
 ###### <h6> I love Mandy very much. 
 
+![Image of Hunter in Risk of Rain 2](https://images.app.goo.gl/qhAb9oy8LaZ8Yy2q8)
 
-This is a test to see how the headings look. 
+Here I am adding an image to test if it works. 
