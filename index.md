@@ -16,4 +16,8 @@
 greeting = print("Hello, world")
 ```
 
-Added a code example.
+- [ ] Get taxes done
+- [ ] Get package sent
+- [ ] Buy phone card
+
+Added example task list.
